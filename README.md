@@ -1,4 +1,4 @@
-### A New Heuristic Approach for TSP using Approximative Recursive Clustering
+# A New Heuristic Approach for TSP using Approximative Recursive Clustering
 
 ## Abstract: 
 The travelling salesman problem is a common NP-hard problem that needs quick and adequate solutions in many different areas 
@@ -21,7 +21,7 @@ The proposed algorithm can be used to quickly find a suboptimal solution for lar
 The proposed heuristic for approximating endpoints for open-loop subsolutions may be implemented 
 into other solutions to enhance other heuristic algorithms and would need further research.
 
-# Authors: 
+### Authors: 
 Björn Forsberg 
 Max Nyström 
 
