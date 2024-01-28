@@ -22,8 +22,7 @@ The proposed heuristic for approximating endpoints for open-loop subsolutions ma
 into other solutions to enhance other heuristic algorithms and would need further research.
 
 ### Authors: 
-Björn Forsberg 
-Max Nyström 
+Björn Forsberg & Max Nyström 
 
 [Link to paper](docs/A%20New%20Heuristic%20Approach%20for%20TSP%20using%20Approximative%20Recursive%20Clustering.pdf)
 
